@@ -9,5 +9,6 @@ $(document).ready(function(){
     /* Toggle menu/navbar */
     $('.menu-btn').click(function(){
         $('.navbar .menu').toggleClass("active");
+        $('.menu-btn i').toggleClass("active");
     });
 });
