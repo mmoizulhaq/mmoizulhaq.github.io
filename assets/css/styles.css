@@ -1,15 +1,3 @@
-@charset "utf-8";
-
-body{
-    margin: 0px;
-    padding: 0px;
-    background-color: #161616;
-}
-
-ul{
-    list-style: none;
-}
-
-a{
-    text-decoration: none;
+*{
+    background-color: black;
 }
